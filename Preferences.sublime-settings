@@ -21,10 +21,12 @@
 		".pytest_cache",
 		"__pycache__"
 	],
+	"font_size": 13,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"SublimeLinter-eslint",
 		"Vintage"
 	],
 	"remember_open_files": false,
